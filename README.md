@@ -1,6 +1,5 @@
 ## Olá, seja bem-vindo ao meu perfil! 👋🎏
-Seja bem-vindo ao meu perfil academico, meu nome é Filipe, tenho 22 anos e estou cursando Logística(CST), na Faculdade de Tecnologia FATEC prof.Jessen Vidal SJC.
-Neste perfil, documento projetos academicos sobre gestão logística, tecnologia aplicada a logística e otimização dos problemas apresentados pelos clientes.
+Seja bem-vindo ao meu perfil acadêmico! Meu nome é Filipe, tenho 22 anos e curso Logística (CST) na Faculdade de Tecnologia Fatec Prof. Jessen Vidal - SJC. Neste perfil, documento projetos acadêmicos sobre gestão logística, tecnologia aplicada à logística e otimização de processos para solução de problemas dos clientes.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StassieFilipe/StassieFilipe/output/github-contribution-grid-snake-dark.svg">
